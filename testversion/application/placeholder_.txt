@@ -1,4 +1,4 @@
-this is just a placeholder.
+this is a placeholder.
 
 use a period in front of the filename 
 in order to make it invisible to the local computer...
